@@ -9,3 +9,11 @@ Post this step we are trying to build our first model since while visualizing wi
 Then we move to the next model since logistic regression is the linear model we try to build the model which can separate the data in a plane so come up the support vector but unfortunately, it didn’t perform well
 
 Then we move to XGBoost model and it performs remarkably well in our case, We generated our test result with XGBoast only we also Gaussian Naive Biase because after PCA visualization there was a hintch that it may for Gaussian distribution but was wrong finally we tried Random Forest the result was good but Random Forest is more prone to overfitting the data give a low accurate result on shuffling the testing data
+
+![alt text](https://github.com/sachin16495/Arya_assignment/blob/master/Models%20Metrics%20Comparison.png)
+
+The above figure compare the clearly state that the XGBoost is performing well and Logestic regression to at some point thought the Random forest show good result but on shuffling the data its result change significantly.
+
+![alt text](https://github.com/sachin16495/Arya_assignment/blob/master/Architecture_Diagram.png)
+
+The above diagram give overall process flow of the work.
